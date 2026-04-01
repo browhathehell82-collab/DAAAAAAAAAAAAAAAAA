@@ -17,7 +17,7 @@ import os
 #                    CONFIGURATION
 # ══════════════════════════════════════════════════════════
 
-TOKEN = "MTQ4ODUzMjAyMDM1NDM1NTI3MA.GJGu5j.I8n6EE13DBQkaq60kz3TZftMBITKGWXtUO3xVo"
+TOKEN = "MTQ4ODUzMjAyMDM1NDM1NTI3MA.GFpMlT.hgdsl_nlrwGYcM0L9iIERnh9Met6URaXIl4TAU"
 PREFIX = "!"
 
 # Channel IDs (set with !setwelcome and !setgoodbye)
